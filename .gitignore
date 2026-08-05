@@ -1,0 +1,35 @@
+# Build outputs
+*.exe
+*.obj
+*.pdb
+*.ilk
+*.idb
+*.lib
+*.exp
+*.log
+
+# Visual Studio
+.vs/
+Debug/
+Release/
+x64/
+x86/
+*.suo
+*.user
+*.vc.db
+*.VC.db
+*.opendb
+*.ipch
+*.tlog
+*.sln
+*.vcxproj
+*.vcxproj.*
+
+# CMake / generic C++
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+compile_commands.json
+
+# Temporary / office lock files
+~$*
